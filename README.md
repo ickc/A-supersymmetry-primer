@@ -7,5 +7,5 @@ This repository only provides variants of the same document, described below:
 A script is wrote to automate the compliation of 8 combinations of 3 possible choices:
 
 - 11pt or 12pt
-- spacetime metric signature (default: -+++, alt: +---)
+- spacetime metric signature (default: `-+++`, alt: `+---`)
 - links in blue or not
